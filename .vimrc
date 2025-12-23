@@ -1,5 +1,5 @@
 set tabstop=4
-
+set autoindent
 
 " When you type {, insert {} and place cursor in the middle
 inoremap { {}<Left>
@@ -19,4 +19,5 @@ let &t_SR .= "\e[6 q"  " Replace mode
 highlight MatchParen cterm=none ctermfg=grey ctermbg=none
 
 syntax on
+filetype plugin indent on
 

@@ -21,3 +21,10 @@ highlight MatchParen cterm=none ctermfg=grey ctermbg=none
 syntax on
 filetype plugin indent on
 
+" disables arrow keys....
+:map <Up> <Nop>
+:map <Left> <Nop>
+:map <Right> <Nop>
+:map <Down> <Nop>
+
+

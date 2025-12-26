@@ -1,3 +1,4 @@
+" sets tabinents and autoindents
 set tabstop=4
 set autoindent
 
@@ -33,5 +34,8 @@ noremap! <Down> <Nop>
 noremap! <Left> <Nop>
 noremap! <Right> <Nop>
 
+" adds line numbers
+set number
+" set relativenumber 
 
 

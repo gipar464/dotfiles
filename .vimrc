@@ -40,7 +40,8 @@ noremap! <Down> <Nop>
 " adds line numbers
 set relativenumber
 
-
+" adds debugger
+:packadd termdebug
 
 
 

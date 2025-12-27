@@ -38,6 +38,7 @@ noremap! <Right> <Nop>
 noremap! <Down> <Nop>
 
 " adds line numbers
+set number
 set relativenumber
 
 " adds debugger

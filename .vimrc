@@ -35,7 +35,6 @@ noremap! <Left> <Nop>
 noremap! <Right> <Nop>
 
 " adds line numbers
-set number
 set relativenumber 
 
 

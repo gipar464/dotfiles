@@ -36,6 +36,6 @@ noremap! <Right> <Nop>
 
 " adds line numbers
 set number
-" set relativenumber 
+set relativenumber 
 
 
